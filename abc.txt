@@ -1,3 +1,4 @@
 first
 second
 line added
+forth line added
